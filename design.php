@@ -38,7 +38,7 @@ in html
             <h1>Software Development Life Cycle</h1>
             
             <h2>Design - Phase 3</h2>
-            <img src="./img/design.png">
+            <img src="./img/design.png" alt="Design">
             <p>
                Design can be viewed as a lower level planning phase where classes, definitions and api structures are defined.
                A team can use this phase to go over finer details that were not discussed in the planning phase. After this
@@ -46,7 +46,7 @@ in html
             </p>
             
             <h2>Implementation - Phase 4</h2>
-            <img src="./img/implement.jpg">
+            <img src="./img/implement.jpg" alt="Implementation">
             <p>
                Implementation is where the actual programming begins. There will be pseudo code along the way to prove a concept, but
                this phase is programming everything that the other three phases designed. After success deployment comes maintenance.

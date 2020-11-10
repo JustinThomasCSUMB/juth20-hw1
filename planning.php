@@ -38,7 +38,7 @@ in html
             <h1>Software Development Life Cycle</h1>
             <article>
             <h2>Planning - Phase 1</h2>
-            <img src="./img/planning.jpg">
+            <img src="./img/planning.jpg" alt="Planning">
             <p>
                 Often times planning is overlooked which can cause wasted time later in development. This phase allows
                 the team to vizualize, conceptualize, and theorize the workflow. This phase can be considered a high level
@@ -46,7 +46,7 @@ in html
             </p>
             </article>
             <h2>Analysis - Phase 2</h2>
-            <img src="./img/analysis.jpg">
+            <img src="./img/analysis.jpg" alt="Analysis">
             <p>
                 After the team has a good understanding of how the project will function and flow, the team works together
                 in the analysis phase to try and find possible holes or areas that were overlooked. When working with
