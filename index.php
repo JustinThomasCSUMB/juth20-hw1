@@ -13,7 +13,7 @@ in html
 <!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8"/>
-        <title> Justin Thomas: Personal Website</title>
+        <title> Justin Thomas: CST336 HW1</title>
         <link href="css/style.css" rel="stylesheet" type="text/css"/>
     </head>
 <!-- closing head -->
@@ -22,46 +22,51 @@ in html
     <!-- This is where we place the content of our website -->
     <body>
         <header>
-            <h1> Justin Thomas </h1>
+            <h1> Justin Thomas HW1 - SDLC </h1>
         </header>
-        <hr/>
+        <hr>
+        
         <nav>
-            <a href="index.php" class="current-page">Home</a>
-            <a href="about.php">About</a>
-            <a href="contact.php">Contact</a>
+            <a href="index.php">Home</a>
+            <a href="planning.php">Planning</a>
+            <a href="design.php">Design</a>
+            <a href="maintenance.php">Maintenance</a>
         </nav>
         <br/>
-        <main>
-            <figure>
-                <img src="img/WebsiteHeadshot.jpg" alt="Justin Thomas Profile Picture"/>
-            </figure>
-            
-            <div>
-                Hello!<br/>
-                <p>Thank you for visiting my professional portfolio website.</p>
-                <p>I'm a technical program manager</p>
-                <p>Feel free to contact me!</p>
-                <br/>
-                <em>"Hard work, <strong>dedication.</strong> - Floyd Mayweather</em>
-                <br/>
-            </div>
-            
-        </main>
         
-        <!-- This is the footer -->
-        <!-- The footer goes inside the body but not always -->
+        <div id="content">
+            <h1>Software Development Life Cycle</h1>
+            <img src="./img/sdlc.png">
+            <article>
+            <p>
+                SDLC consists of <strong>5</strong> basic component.Each component is unique and important to the full cycle.
+                <br>
+                Each software developer should have a good understanding of their role within each phase.
+            </p>
+            </article>
+            <ol>
+                <li>
+                    <a href="./planning.php">Planning</a>
+                </li>
+                <li>
+                    <a href="./planning.php">Analysis</a>
+                </li>
+                <li>
+                    <a href="./design.php">Design</a>
+                </li>
+                <li>
+                    <a href="./design.php">Implementation</a>
+                </li>
+                <li>
+                    <a href="./maintenance.php">Maintenance</a>
+                </li>
+            </ul>
+        </div>
+        
         <footer>
-            <hr>
-            CST336 Internet Programming. 2020&copy; Thomas <br/>
-            <strong>Disclaimer:</strong> The information in this page is fictitious.
-            <br/>
-            It is used for academic purposes only.
-            <figure>
-                <img src="img/csumbLogoWhite.png"/>
-            </figure>
+            <h5>Information about the software development lifecycle can be found here</h3>
+            <a href="https://www.tutorialspoint.com/sdlc/sdlc_overview.htm">SDLC Overview</a>
         </footer>
-        <!-- closing footer -->
-        
     </body>
     <!-- closing body -->
 
