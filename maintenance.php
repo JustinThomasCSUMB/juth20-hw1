@@ -38,7 +38,7 @@ in html
             <h1>Software Development Life Cycle</h1>
             
             <h2>Maintenance - Phase 5</h2>
-            <img src="./img/maintenance.jpg">
+            <img src="./img/maintenance.jpg" alt="Maintenance">
             <p>
                 Now that the code has been deployed, it needs to be maintained. This includes bug fixes, design changes, and adaptation. Bugs occur in every
                 application and when they're discovered they need to be squashed. Design changes can be feature requests or design changes that didn't work as
