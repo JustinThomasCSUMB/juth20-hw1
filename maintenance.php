@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang=en-us>
 <!--
 
 First Website
@@ -56,7 +56,7 @@ in html
         </div>
         
         <footer>
-            <h5>Information about the software development lifecycle can be found here</h3>
+            <h5>Information about the software development lifecycle can be found here</h5>
             <a href="https://www.tutorialspoint.com/sdlc/sdlc_overview.htm">SDLC Overview</a>
         </footer>
     </body>

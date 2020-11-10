@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang=en-us>
 <!--
 
 First Website
@@ -36,14 +36,14 @@ in html
         
         <div id="content">
             <h1>Software Development Life Cycle</h1>
-            <img src="./img/sdlc.png">
-            <article>
+            <img src="./img/sdlc.png" alt="SDLC">
+            
             <p>
                 SDLC consists of <strong>5</strong> basic component.Each component is unique and important to the full cycle.
                 <br>
                 Each software developer should have a good understanding of their role within each phase.
             </p>
-            </article>
+            
             <ol>
                 <li>
                     <a href="./planning.php">Planning</a>
@@ -60,11 +60,11 @@ in html
                 <li>
                     <a href="./maintenance.php">Maintenance</a>
                 </li>
-            </ul>
+            </ol>
         </div>
         
         <footer>
-            <h5>Information about the software development lifecycle can be found here</h3>
+            <h5>Information about the software development lifecycle can be found here</h5>
             <a href="https://www.tutorialspoint.com/sdlc/sdlc_overview.htm">SDLC Overview</a>
         </footer>
     </body>

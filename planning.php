@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang=en-us>
 <!--
 
 First Website
@@ -36,7 +36,7 @@ in html
         
         <div id="content">
             <h1>Software Development Life Cycle</h1>
-            
+            <article>
             <h2>Planning - Phase 1</h2>
             <img src="./img/planning.jpg">
             <p>
@@ -44,7 +44,7 @@ in html
                 the team to vizualize, conceptualize, and theorize the workflow. This phase can be considered a high level
                 overview before the nitty gritty is discussed.
             </p>
-            
+            </article>
             <h2>Analysis - Phase 2</h2>
             <img src="./img/analysis.jpg">
             <p>
@@ -59,8 +59,8 @@ in html
             
         </div>
         
-        <footer>
-            <h5>Information about the software development lifecycle can be found here</h3>
+       <footer>
+            <h5>Information about the software development lifecycle can be found here</h5>
             <a href="https://www.tutorialspoint.com/sdlc/sdlc_overview.htm">SDLC Overview</a>
         </footer>
     </body>
